@@ -2,6 +2,7 @@
 This is an office scene created using OpenGL and C++
 
 - How do I approach designing software?
+
 I design software with the user in mind. When I go to add a feature, how the user will interact witht that feature is always top of mind. This helps save on future time spent on QOL changes or bug fixes
 
 - What new design skills has your work on the project helped you to craft?
